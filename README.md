@@ -13,3 +13,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 ## Project Description
 Building a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+
+Prediction: Survival Prediction, the value of which is 0(if Passenger is dead) or 1(if survived). Survival feature values are provived alongside training dataset to map features to prediction target.
+
+Task is to output Survival predictions corresponding to Titanic test data, to evaluate how accurate is one trained machine learning model in matching test prediction labels to true labels.
