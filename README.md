@@ -6,3 +6,6 @@ The RMS Titanic, a luxury steamship, sank in the early hours of April 15, 1912, 
 
 ## Passengers That Survived
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+## Project Description
+Building a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
